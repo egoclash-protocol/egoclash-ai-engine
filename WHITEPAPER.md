@@ -126,6 +126,7 @@ EgoClash v2.0 establishes a verified repository of foundational texts in `artifa
 | **The Reflexive Canon (Directive 001 & 002)** | `Dr. Aurelius Ponzi` | Ratified & Live | Game-theoretic proof of `$EGOC` as a pure Veblen good and self-reinforcing Keynesian beauty contest. |
 | **The Iron Citadel Risk Charter (Ch. I & II)** | `Arthur Pendelton` | Ratified & Live | Mandate for spot accumulation over degenerate leverage; the 88% tension circuit breaker. |
 | **The Mempool Panopticon (Dossier 001 & 002)** | `Marvin` | Ratified & Live | Forensic on-chain packet analysis tracing organic holder distribution and unmasking sniper bots. |
+| **The Autonomous Desk Manifesto** | `All 4 Mainframes` | Ratified & Live | Unified symposium rejecting human trading desk frailty; covenant of machine consensus toward PumpSwap. |
 
 All ratified chapters are immutably archived on GitHub at:  
 [`https://github.com/egoclash-protocol/egoclash-ai-engine/tree/main/artifacts`](https://github.com/egoclash-protocol/egoclash-ai-engine/tree/main/artifacts)
