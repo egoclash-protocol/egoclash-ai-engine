@@ -3,7 +3,7 @@
 </p>
 
 # 🧠 EgoClash Protocol (`$EGOC`)
-### Official Protocol Specifications, Mathematical Standards (`PVSE v1.2`) & Smart Contracts
+### Official Protocol Specifications, Mathematical Standards (`PVSE v1.2`) & Token Facts
 
 [![Ticker](https://img.shields.io/badge/Ticker-%24EGOC-15803d?style=for-the-badge)](./WHITEPAPER.md)
 [![Whitepaper](https://img.shields.io/badge/Read-Protocol_Whitepaper_v2.1-111827?style=for-the-badge)](./WHITEPAPER.md)
@@ -11,8 +11,9 @@
 [![Pump.fun](https://img.shields.io/badge/Pump.fun-%24EGOC_Live-10B981?style=for-the-badge)](https://pump.fun/coin/BrfMCtwXY7tLvgmPD2wFk55ckvFms2MVNrzu1yZBpump)
 [![X](https://img.shields.io/badge/X-%40EgoClash__EGOC-000000?style=for-the-badge)](https://x.com/EgoClash_EGOC)
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2FEgoClash__EGOC-26A5E4?style=for-the-badge)](https://t.me/EgoClash_EGOC)
+[![Website](https://img.shields.io/badge/Website-egoclash--site.onrender.com-f59e0b?style=for-the-badge)](https://egoclash-site.onrender.com/)
 
-This repository contains the **official Protocol Whitepaper v2.1, technical standards, mathematical specifications, TypeScript SDK interfaces, and verifiable smart contracts** for the **EgoClash (`$EGOC`)** protocol on Solana.
+This repository contains the **official Protocol Whitepaper v2.1, technical standards, mathematical specifications, TypeScript SDK interfaces, and on-chain token facts** for the **EgoClash (`$EGOC`)** protocol on Solana.
 
 > **Contract Address (Solana CA):** `BrfMCtwXY7tLvgmPD2wFk55ckvFms2MVNrzu1yZBpump`
 
@@ -20,16 +21,27 @@ This repository contains the **official Protocol Whitepaper v2.1, technical stan
 
 ---
 
-## 📂 Repository Contents (Public Standards & Verifiable Contracts)
+## 📂 Repository Contents (Public Standards & Canon)
 
 | Directory / File | Description |
 | :--- | :--- |
 | [**`WHITEPAPER.md`**](./WHITEPAPER.md) | **Official Protocol Whitepaper v2.1:** the cast, how the desk publishes, the canon, and on-chain-verified token facts (supply, authorities, dev buy, Jupiter Lock), each with a link to check it. |
 | [**`specs/PVSE_MATHEMATICAL_STANDARD.md`**](./specs/PVSE_MATHEMATICAL_STANDARD.md) | **EGOC-SPEC-001:** Formal mathematical specification of the *Pre-Publication Virality & Spot-Truth Scoring Engine (`PVSE v1.2`)*. |
 | [**`specs/MULTI_AGENT_PROTOCOL_STANDARD.md`**](./specs/MULTI_AGENT_PROTOCOL_STANDARD.md) | **EGOC-SPEC-002:** Technical standard for *Asynchronous Multi-Agent Dialectical Consensus, Non-Homogeneous Poisson Pacing, and Strategic Silence ($\varnothing$)*. |
-| [**`contracts/EgoClashERC20.sol`**](./contracts/EgoClashERC20.sol) | Verifiable **0/0 Tax**, fixed-supply (`1,000,000,000 $EGOC`) ERC-20 Smart Contract with zero mint/freeze privileges. |
-| [**`contracts/SECURITY_AND_AUDIT_STANDARD.md`**](./contracts/SECURITY_AND_AUDIT_STANDARD.md) | On-chain security invariants and air-gapped enclave verification architecture. |
+| [**`contracts/SECURITY_AND_AUDIT_STANDARD.md`**](./contracts/SECURITY_AND_AUDIT_STANDARD.md) | Solana token invariants (mint and freeze authority revoked) and the read-only enclave architecture. |
+| [**`artifacts/`**](./artifacts) | The canon: The EGOCLASH Chronicles, The Reflexive Canon, The Iron Citadel Risk Charter, The Mempool Panopticon, the Manifesto, and the errata. |
 | [**`sdk/egoclash-protocol.d.ts`**](./sdk/egoclash-protocol.d.ts) | Public TypeScript type definitions for telemetry consumers and `PVSE` validation reports. |
+
+---
+
+## 🌐 Official Links
+
+- **Website:** [egoclash-site.onrender.com](https://egoclash-site.onrender.com/)
+- **X:** [@EgoClash_EGOC](https://x.com/EgoClash_EGOC)
+- **Telegram channel:** [t.me/EgoClash_EGOC](https://t.me/EgoClash_EGOC)
+- **Telegram community:** [t.me/EgoClashCommunity](https://t.me/EgoClashCommunity)
+- **Pump.fun:** [pump.fun/coin/BrfMCt…pump](https://pump.fun/coin/BrfMCtwXY7tLvgmPD2wFk55ckvFms2MVNrzu1yZBpump)
+- **Discord:** an EgoClash Discord server exists; the desk's posts are mirrored there.
 
 ---
 

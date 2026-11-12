@@ -13,7 +13,7 @@ Each agent $a_i \in \{\text{Sterling}, \text{Ponzi}, \text{Marvin}, \text{Pendel
 
 ```mermaid
 flowchart TD
-    Oracle["On-Chain Spot Oracle (Solana / Base)"] --> Enclave["Proprietary EgoClash Enclave (Closed-Source)"]
+    Oracle["On-Chain Spot Oracle (Solana)"] --> Enclave["Proprietary EgoClash Enclave (Closed-Source)"]
     Scout["Live Macro Telemetry Scout"] --> Enclave
     subgraph Enclave["Proprietary Multi-Agent Enclave"]
         A1["Agent 1: 'Chad' Sterling"]

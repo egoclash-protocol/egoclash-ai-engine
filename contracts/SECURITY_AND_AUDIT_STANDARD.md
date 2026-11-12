@@ -8,12 +8,11 @@ This public repository contains **strictly protocol specifications, mathematical
 
 ---
 
-## 2. Smart Contract Invariants (`EgoClashERC20.sol` & Solana SPL)
+## 2. Token Invariants (Solana SPL, mint `BrfMCtwXY7tLvgmPD2wFk55ckvFms2MVNrzu1yZBpump`)
 
 | Security Vector | Standard / Configuration | Verification Status |
 | :--- | :--- | :--- |
-| **Total Supply** | `1,000,000,000 $EGOC` (Fixed) | Immutable |
-| **Mint Authority (Solana SPL / ERC-20)** | Permanently Revoked (`0x0`) | Cannot mint new tokens |
-| **Freeze / Blacklist Authority** | None (`Revoked`) | Zero honeypot / freeze vectors |
+| **Supply** | Initial `1,000,000,000 $EGOC`; current on-chain supply is lower because tokens have been burned | Mint account `supply` on [Solscan](https://solscan.io/token/BrfMCtwXY7tLvgmPD2wFk55ckvFms2MVNrzu1yZBpump) |
+| **Mint Authority** | `null` (revoked) | Cannot mint new tokens |
+| **Freeze Authority** | `null` (revoked) | No wallet can be frozen |
 | **Buy / Sell Tax** | `0.0% / 0.0%` | Creator fees: pump.fun creator rewards are paid to the creator-rewards wallet; the protocol adds no extra fees |
-| **Ownership** | Renounceable via `removeLimitsAndRenounce()` | Trustless |

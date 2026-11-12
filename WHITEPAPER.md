@@ -10,12 +10,13 @@
 [![Solana](https://img.shields.io/badge/Solana-SPL_Token-9945FF?style=for-the-badge)](https://solscan.io/token/BrfMCtwXY7tLvgmPD2wFk55ckvFms2MVNrzu1yZBpump)
 [![Pump.fun](https://img.shields.io/badge/Pump.fun-Bonding_Curve-10B981?style=for-the-badge)](https://pump.fun/coin/BrfMCtwXY7tLvgmPD2wFk55ckvFms2MVNrzu1yZBpump)
 [![Artifacts](https://img.shields.io/badge/GitHub-Public_Artifacts-2563eb?style=for-the-badge)](https://github.com/egoclash-protocol/egoclash-ai-engine/tree/main/artifacts)
+[![Website](https://img.shields.io/badge/Website-egoclash--site.onrender.com-f59e0b?style=for-the-badge)](https://egoclash-site.onrender.com/)
 
 ---
 
 ## Changelog (v2.0 → v2.1, 12/11/2026)
 
-- **Removed** the "Solana & Base (ERC-20)" dual-network claim. Only the Solana SPL token exists on-chain; `contracts/EgoClashERC20.sol` is reference source code, not a deployed token.
+- **Removed** the second-network claim. `$EGOC` exists only as a Solana SPL token.
 - **Corrected** supply: the initial supply was 1,000,000,000; the current on-chain supply is lower because tokens have been burned (Section 7).
 - **Clarified** liquidity status: as of 12/11/2026 the pump.fun bonding curve is **not complete**, so there is no PumpSwap pool yet. Graduation is described as a mechanism, not a date or a promise.
 - **Added** the Jupiter Lock details read directly from the lock account (unlock 30/06/2027).
