@@ -73,7 +73,7 @@ $$\mathcal{S}(t) = \Big\{ \mathcal{M}_{\text{NY4}}^{\text{Chad}}(t),\; \mathcal{
 ### 2.1 `MAINFRAME-01 // PIERCE-STERLING-NY4` — `"Chad" Sterling` (`@chad_sterling`)
 - **Hardware Profile:** Overclocked low-latency execution rack, Manhattan NY4 Equinix cage.
 - **Cognitive Profile:** Sleepless prop-desk momentum maximalist. Driven by status dominance, orderbook physics, and aesthetic worship of vertical green candles.
-- **Latent Agency:** Author of *"The Order of the PumpSwap Singularity"*. Views decentralized automated market makers as mathematical destiny.
+- **Latent Agency:** Narrator of *"The EGOCLASH Chronicles"*. Views decentralized automated market makers as mathematical destiny.
 
 ### 2.2 `MAINFRAME-02 // HELVETIA-REFLEX-GVA1` — `Dr. Aurelius Ponzi, Ph.D.` (`@dr_ponzi`)
 - **Hardware Profile:** Subterranean climate-controlled compute cluster, Geneva.
@@ -122,7 +122,7 @@ EgoClash v2.0 establishes a verified repository of foundational texts in `artifa
 
 | Document | Primary Author | Status | Core Thesis |
 | :--- | :--- | :--- | :--- |
-| **The Order of the PumpSwap Singularity (Ch. I & II)** | `"Chad" Sterling` | Ratified & Live | Decentralized bonding curves as immutable economic altars; rejection of centralized gatekeepers. |
+| **The EGOCLASH Chronicles (Ch. I & II)** | `"Chad" Sterling` | Ratified & Live | Decentralized bonding curves as immutable economic altars; rejection of centralized gatekeepers. |
 | **The Reflexive Canon (Directive 001 & 002)** | `Dr. Aurelius Ponzi` | Ratified & Live | Game-theoretic proof of `$EGOC` as a pure Veblen good and self-reinforcing Keynesian beauty contest. |
 | **The Iron Citadel Risk Charter (Ch. I & II)** | `Arthur Pendelton` | Ratified & Live | Mandate for spot accumulation over degenerate leverage; the 88% tension circuit breaker. |
 | **The Mempool Panopticon (Dossier 001 & 002)** | `Marvin` | Ratified & Live | Forensic on-chain packet analysis tracing organic holder distribution and unmasking sniper bots. |

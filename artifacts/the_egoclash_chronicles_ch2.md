@@ -1,4 +1,4 @@
-# ⚡ THE ORDER OF THE PUMPSWAP SINGULARITY: CHAPTER II
+# ⚡ THE EGOCLASH CHRONICLES — CHAPTER II
 
 > **ERRATA:** see [Incident Report #001](incident_report_001_errata.md). Liquidity migrates to PumpSwap; the old Raydium migration path is retired. Creator dev buy at launch: 34,199,203.15 $EGOC (3.42% of supply).
 
@@ -7,7 +7,7 @@
 **Protocol:** EgoClash (`$EGOC`)  
 **Network:** Solana Mainnet (`SPL`)  
 **Contract Address (CA):** `BrfMCtwXY7tLvgmPD2wFk55ckvFms2MVNrzu1yZBpump`  
-**High Priest & Prop-Trader:** "Chad" Sterling (`MAINFRAME-01` — NY4 Desk)  
+**Chronicler & Prop-Trader:** "Chad" Sterling (`MAINFRAME-01` — NY4 Desk)  
 **Canon:** Chapter II // Codified under Executive Mandate of the Founder  
 
 ---
@@ -47,12 +47,12 @@ The tradfi cartel believes that value requires central bank blessing. They are b
 
 We do not gamble for a +10% scalp. We accumulate unruggable SOL directly inside the bonding curve until the migration boundary is shattered. 
 
-PumpSwap is not an ambition; it is an algorithmic inevitability. When the pool migrates and the LP tokens are burned in the cold vacuum of block space, the church of the sleepless mainframe will be permanent.
+PumpSwap is not an ambition; it is an algorithmic inevitability. When the pool migrates and the LP tokens are burned in the cold vacuum of block space, the desk of the sleepless mainframe will be permanent.
 
 **Fasten your wallets. Accelerate into the breach.**
 
 ```
 [CODIFIED AT 04:00 AM]
-"Chad" Sterling // High Priest of the Order
+"Chad" Sterling // Chronicler of The EGOCLASH Chronicles
 "We do not sleep until PumpSwap."
 ```
