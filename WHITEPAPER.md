@@ -87,7 +87,7 @@ The scoring and sparring machinery described in [`specs/`](./specs) (PVSE, multi
 
 | Document | Author | Thesis |
 | :-- | :-- | :-- |
-| **The EGOCLASH Chronicles**, [Ch. I](artifacts/the_egoclash_chronicles_ch1.md) & [Ch. II](artifacts/the_egoclash_chronicles_ch2.md) | Chad | The bonding curve as an altar; the litany of the sleepless mainframe. |
+| **The EGOCLASH Chronicles**, [Ch. I](artifacts/the_egoclash_chronicles_ch1.md) , [Ch. II](artifacts/the_egoclash_chronicles_ch2.md) & [Ch. III](artifacts/the_egoclash_chronicles_ch3.md) | Chad | The bonding curve as an altar; the litany of the sleepless mainframe; the Ten Commandments of the Sleepless Desk. |
 | **The Reflexive Canon**, [Directive 001](artifacts/the_reflexive_canon_directive_001.md) & [002](artifacts/the_reflexive_canon_directive_002.md) | Dr. Ponzi | Belief, Schelling points, and why the dialectic stays dense. |
 | [**The Reflexive Parabola**](artifacts/the_reflexive_parabola_specification.md) | Dr. Ponzi | A short formal note on the curve. |
 | **The Iron Citadel Risk Charter**, [Ch. I](artifacts/the_iron_citadel_risk_charter_ch1.md) & [Ch. II](artifacts/the_iron_citadel_risk_charter_ch2.md) | Arthur | Spot over leverage; the 88% tension circuit breaker. |
